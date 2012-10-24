@@ -25,8 +25,7 @@
 
 	<!-- !CSS -->
 	<link rel="stylesheet" href="<txp:site_url/>-/css/jquerystyle.css?v=2">
-	<link rel="stylesheet" href="<txp:site_url/>-/css/tools/nogrid.css?v=2">
-	<link rel="stylesheet" href="<txp:site_url/>-/css/tools/forms.css?v=2">
+
 	<!-- !Modernizr - All other JS at bottom -->
 	<!--script src="<txp:site_url/>-/js/libs/modernizr.js"></script-->
 
