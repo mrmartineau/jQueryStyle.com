@@ -21,7 +21,7 @@
 	<meta name="author" content="Zander Martineau">
 	<meta itemprop="name" content="jQuery Style">
 	<meta itemprop="description" content="jQuery Style is a gallery/showcase site for brilliantly designed websites that use jQuery in amazing and thought provoking ways. It is also a resource for all things jQuery.">
-	<meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- !CSS -->
 	<link rel="stylesheet" href="<txp:site_url/>-/css/jquerystyle.css?v=2">

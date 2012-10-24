@@ -10,20 +10,21 @@
 		<!-- !Javascript - at the bottom for fast page loading -->
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 		<script>window.jQuery || document.write('<script src="<txp:site_url/>-/js/libs/jquery.min.js"><\/script>')</script>
-		<script src="<txp:site_url/>-/js/libs/jquery.imagesLoaded.js?v=25092011"></script>
-		<script src="<txp:site_url/>-/js/libs/jquery.isotope.js?v=25092011"></script>
-		<script src="<txp:site_url/>-/js/libs/jquery.infinitescroll.min.js?v=25092011"></script>
+		<script src="<txp:site_url/>-/js/libs/jquery.imagesLoaded.js"></script>
+		<script src="<txp:site_url/>-/js/libs/jquery.isotope.js"></script>
+		<script src="<txp:site_url/>-/js/libs/jquery.infinitescroll.min.js"></script>
 		<script src="<txp:site_url/>-/js/jqs.js?v=08102011-4"></script>
-		<script src="<txp:site_url/>-/js/libs/livesearch.jquery.js?v=11102011"></script>
+		<script src="<txp:site_url/>-/js/libs/livesearch.jquery.js"></script>
 		<script type="text/javascript">
 			cbs_live_search("live_search","Search","No results found",0,{b:"li",w:"ol",m:10});
 		</script>
+
+
 		<!-- SOCIAL -->
 		<div id="social">
 			<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://jquerystyle.com" data-count="vertical" data-via="jQueryStyle" data-related="MrMartineau:Zander Martineau">Tweet</a>
 			<script src="//platform.twitter.com/widgets.js"></script>
 			<div class="g-plusone" data-size="tall" data-href="http://jquerystyle.com"></div>
-			<script src="https://apis.google.com/js/plusone.js"></script>
 			<div id="fb-root"></div>
 			<script>(function(d, s, id) {
 				var js, fjs = d.getElementsByTagName(s)[0];
