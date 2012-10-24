@@ -1,0 +1,10 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<ShortName>jQuery Style Search</ShortName>
+<Description>jQuery Style is a showcase of awesome site that are built using jQuery.</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image width="16" height="16" type="image/gif">http://jquerystyle.com/favicon.gif</Image>
+<Url type="text/html" indexOffset="0" template="http://jquerystyle.com/?q={searchTerms}"/>
+<Url type="application/opensearchdescription+xml" rel="self" template="http://jquerystyle.com/opensearch.xml" />
+<moz:SearchForm>http://jquerystyle.com</moz:SearchForm>
+</OpenSearchDescription>
